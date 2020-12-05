@@ -1,0 +1,17 @@
+{
+  "name": "filecoin-market-add-balance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT/Apache-2 (Permissive License Stack)",
+  "dependencies": {
+    "@glif/filecoin-number": "^1.1.0-beta.7",
+    "dotenv": "^8.2.0",
+    "filecoin.js": "^0.0.5-alpha"
+  }
+}
