@@ -17,7 +17,7 @@ TOKEN=<your token>
 npm install 
 ```
 
-## Usagage
+## How to Use
 List Current Balance:
 ```
 $node index.js
