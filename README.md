@@ -1,7 +1,7 @@
 # filecoin-market-add-balance
 Use Filecoin.js to transfer funds from default wallet to market balance
 
-## Prerequest
+## Requirement 
 NodeJS version > 10
 
 Create a .env file
@@ -18,7 +18,7 @@ npm install
 ```
 
 ## How to Use
-List Current Balance:
+List current balance:
 ```
 $node index.js
 
